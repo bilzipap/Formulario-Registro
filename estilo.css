@@ -1,0 +1,14 @@
+form{
+    border: 2px solid black;
+    width: 400px;
+    padding: 20px;
+    margin: 30px 20px;
+}
+
+div{
+    margin: 7px;
+}
+
+button{
+    margin: 10px 8px;
+}
